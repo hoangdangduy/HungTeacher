@@ -1,4 +1,4 @@
-package Buoi2_DongHo;
+package Buoi2_GhiLog;
 
 public class Test {
 	public static void main(String[] args) {

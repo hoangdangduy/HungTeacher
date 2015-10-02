@@ -1,4 +1,4 @@
-package Buoi2_DongHo;
+package Buoi2_GhiLog;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
